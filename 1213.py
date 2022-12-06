@@ -5,6 +5,7 @@
 import sys
 input = sys.stdin.readline
 
+# 입력값 받기
 ### sys.stdin.readline()은 끝에 개행문자가 들어있는데요,
 ### strip() 함수를 이용해 개행 문자를 지워줬습니다 ~
 name = input().strip()

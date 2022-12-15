@@ -1,6 +1,7 @@
 # 입국심사
 # https://www.acmicpc.net/problem/3079
 
+
 import sys
 
 input = sys.stdin.readline				# 입력값이 많이 들어옴
